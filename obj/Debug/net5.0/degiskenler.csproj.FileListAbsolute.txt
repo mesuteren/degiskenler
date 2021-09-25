@@ -1,0 +1,16 @@
+C:\Patika\degiskenler\bin\Debug\net5.0\degiskenler.exe
+C:\Patika\degiskenler\bin\Debug\net5.0\degiskenler.deps.json
+C:\Patika\degiskenler\bin\Debug\net5.0\degiskenler.runtimeconfig.json
+C:\Patika\degiskenler\bin\Debug\net5.0\degiskenler.runtimeconfig.dev.json
+C:\Patika\degiskenler\bin\Debug\net5.0\degiskenler.dll
+C:\Patika\degiskenler\bin\Debug\net5.0\ref\degiskenler.dll
+C:\Patika\degiskenler\bin\Debug\net5.0\degiskenler.pdb
+C:\Patika\degiskenler\obj\Debug\net5.0\degiskenler.csprojAssemblyReference.cache
+C:\Patika\degiskenler\obj\Debug\net5.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Patika\degiskenler\obj\Debug\net5.0\degiskenler.AssemblyInfoInputs.cache
+C:\Patika\degiskenler\obj\Debug\net5.0\degiskenler.AssemblyInfo.cs
+C:\Patika\degiskenler\obj\Debug\net5.0\degiskenler.csproj.CoreCompileInputs.cache
+C:\Patika\degiskenler\obj\Debug\net5.0\degiskenler.dll
+C:\Patika\degiskenler\obj\Debug\net5.0\ref\degiskenler.dll
+C:\Patika\degiskenler\obj\Debug\net5.0\degiskenler.pdb
+C:\Patika\degiskenler\obj\Debug\net5.0\degiskenler.genruntimeconfig.cache
